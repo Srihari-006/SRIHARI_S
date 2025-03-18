@@ -20,4 +20,4 @@ def print_fib(n):
 
 if __name__ == "__main__":
     n = 9
-    print_fib()
+    print_fib(n)
